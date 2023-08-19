@@ -8,7 +8,7 @@ It provides a seamless user experience for creating, reading, updating, and dele
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![Video Walkthrough](/web102-prework-walktrough.gif)
+![Video Walkthrough](/todo-list.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
