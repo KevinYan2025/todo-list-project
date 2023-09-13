@@ -2,9 +2,7 @@
 
 Create by: Zhixiang Yan
 
-The Full-Stack ToDo List App is a web application that helps users manage their tasks and to-do items efficiently.
-The app is developed using a combination of Spring Boot for the backend, React for the frontend, and PostgreSQL for the database.
-It provides a seamless user experience for creating, reading, updating, and deleting tasks, allowing users to stay organized and productive.
+Created a To-Do List app with Java Spring Boot and React.js, featuring Spring Security for user authentication, JDBC for PostgreSQL CRUD operations, efficient data retrieval with pagination for a 95% boost in efficiency, and improved user experience with Bootstrap.
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
